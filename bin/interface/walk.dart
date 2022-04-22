@@ -1,0 +1,3 @@
+class Walkable {
+  void walk() {}
+}
